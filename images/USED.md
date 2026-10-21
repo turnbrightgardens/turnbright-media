@@ -11,3 +11,15 @@ Log of every image published with a Google Business Profile post. Never reuse a 
 
 ## Reusable real photos
 | van-turnbright-tipper.jpg | 2026-10-19 | Both | TurnBright white Ford tipper van with cage, logo on bonnet, plate blanked (edited real photo; reusable occasionally) |
+
+## Real customer job photos (unposted, use once each)
+| File | Date | Listing | Scene |
+|------|------|---------|-------|
+| 2026-10-21-real-loft-boxes.jpg | 2026-10-21 | House Clearance | Real loft with timber eaves and large cardboard storage boxes (UNPOSTED) |
+| 2026-10-21-real-van-front.jpg | 2026-10-21 | Both | Front of white Ford tipper van on residential street, plate blanked white; second van photo alongside van-turnbright-tipper.jpg (UNPOSTED) |
+| 2026-10-21-real-patio-junk.jpg | 2026-10-21 | Waste Removal | Blue office chair, appliances, mops, trolley, dustbin and round folding table on a pebbledash patio; person cropped out (UNPOSTED) |
+| 2026-10-21-real-leather-sofa.jpg | 2026-10-21 | Waste Removal | Worn brown leather two-seater sofa with cracked cushions in a living room (UNPOSTED) |
+| 2026-10-21-real-green-waste-sacks.jpg | 2026-10-21 | Waste Removal | Large pile of black sacks of garden waste on a pavement by a hedge; bin number blurred (UNPOSTED) |
+| 2026-10-21-real-front-garden-rubbish.jpg | 2026-10-21 | Waste Removal | Front garden with wheelie bins, black bags, old suitcase, cardboard and timber frame; car plates and bin labels blurred (UNPOSTED) |
+| 2026-10-21-real-room-clearance.jpg | 2026-10-21 | House Clearance | Room with red carpet, tiled fireplace, leftover washing machine, panels and boards (UNPOSTED) |
+| 2026-10-21-real-side-alley-junk.jpg | 2026-10-21 | House Clearance | Side alley stacked with boards, plastic drawers, red bin and bags (UNPOSTED) |
