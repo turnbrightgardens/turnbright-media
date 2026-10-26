@@ -26,3 +26,11 @@ Log of every image published with a Google Business Profile post. Never reuse a 
 | 2026-10-26-real-loading-tipper.jpg | 2026-10-26 | Both | Man loading wardrobe panels and OSB boards onto caged tipper bed with builder's bags, autumn trees behind; face and other company's phone number blurred (UNPOSTED) [IN HOUSE CLEARANCE + WASTE REMOVAL GALLERY 2026-10-26; still usable once in a post if unposted] |
 | 2026-10-26-real-room-clearance-before.jpg | 2026-10-26 | House Clearance | Room clearance "before": pile of chairs, pine table, microwave, toaster, bags, lamp and airer in front of black cast-iron fireplace, wood floor (UNPOSTED) [IN HOUSE CLEARANCE GALLERY 2026-10-26; still usable once in a post if unposted] |
 | 2026-10-26-real-van-side-cage.jpg | 2026-10-26 | Waste Removal | Side of white TurnBright tipper van with cage gate open, houses and trees behind; person cropped out, background plates out of frame/blurred (UNPOSTED) [IN WASTE REMOVAL GALLERY 2026-10-26; still usable once in a post if unposted] |
+
+## Real job videos
+| File | Date | Listing | Scene |
+|------|------|---------|-------|
+| videos/2026-10-26-real-loading-clip-a.mp4 | 2026-10-26 | Both | Real job, 11.7 s, 720x1280 portrait: man loading MDF/OSB boards over the cage onto the tipper bed, autumn trees behind; face and other company's bulk-bag lettering/phone number blurred, no audio (UNPOSTED) |
+| videos/2026-10-26-real-loading-clip-b.mp4 | 2026-10-26 | Both | Real job, 10.4 s, 720x1280 portrait: man on tipper bed lifting white wardrobe panels and boards in, houses behind; face and bulk-bag lettering blurred, no audio (UNPOSTED) |
+| videos/2026-10-26-real-loading-reel.mp4 | 2026-10-26 | Both | 16.4 s reel: clip B 0:01-0:06 then all of clip A, 0.3 s crossfade, no text/music, no audio (UNPOSTED) |
+| videos/2026-10-26-real-loading-reel-cover.jpg | 2026-10-26 | Both | Cover still from reel at 2.5 s: man lifting white panel onto tipper bed, face and bag lettering blurred (UNPOSTED) |
