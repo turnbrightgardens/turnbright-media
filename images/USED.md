@@ -9,6 +9,8 @@ Log of every image published with a Google Business Profile post. Never reuse a 
 | 2026-10-21-house-clearance-probate-living-room.jpg | 2026-10-21 | House Clearance | Dated living room with dark wood china cabinet, floral armchair, nest of tables, framed pictures, stacked boxes, net curtains, patterned carpet (POSTED 2026-10-21, probate clearance post, Barnet) |
 | 2026-10-21-waste-green-waste-sacks-driveway.jpg | 2026-10-21 | Waste Removal | Row of white builder's sacks full of autumn leaves along block-paved side driveway by hedge, fence and green wheelie bin (POSTED 2026-10-21, autumn garden waste post, Southgate/Winchmore Hill) |
 
+| 2026-11-04-waste-fridge-washer-driveway.jpg | 2026-11-04 | Waste Removal | Old white fridge-freezer and front-loading washing machine side by side on block-paved driveway by low brick wall and privet hedge, autumn leaves (generated; POSTED 2026-11-04, Waste Removal, old appliances post, Cockfosters/Oakwood) |
+
 ## Reusable real photos
 | van-turnbright-tipper.jpg | 2026-10-19 | Both | TurnBright white Ford tipper van with cage, logo on bonnet, plate blanked (edited real photo; reusable occasionally) |
 
@@ -16,7 +18,7 @@ Log of every image published with a Google Business Profile post. Never reuse a 
 | File | Date | Listing | Scene |
 |------|------|---------|-------|
 | 2026-10-21-real-loft-boxes.jpg | 2026-10-21 | House Clearance | Real loft with timber eaves and large cardboard storage boxes (POSTED 2026-11-02, House Clearance, Q&A post: how do I get a quote, New Barnet/East Barnet) [IN HOUSE CLEARANCE GALLERY 2026-10-23; still usable once in a post if unposted] |
-| 2026-10-21-real-van-front.jpg | 2026-10-21 | Both | Front of white Ford tipper van on residential street, plate blanked white; second van photo alongside van-turnbright-tipper.jpg (UNPOSTED) |
+| 2026-10-21-real-van-front.jpg | 2026-10-21 | Both | Front of white Ford tipper van on residential street, plate blanked white; second van photo alongside van-turnbright-tipper.jpg (VAN PHOTO, reusable occasionally; USED 2026-11-04, House Clearance, garage/shed clearances 'spot our van' post, Friern Barnet/Colney Hatch) |
 | 2026-10-21-real-patio-junk.jpg | 2026-10-21 | Waste Removal | Blue office chair, appliances, mops, trolley, dustbin and round folding table on a pebbledash patio; person cropped out (POSTED 2026-10-23, Waste Removal, mixed household junk post, Wood Green/Muswell Hill) [IN WASTE REMOVAL GALLERY 2026-10-23; still usable once in a post if unposted] |
 | 2026-10-21-real-leather-sofa.jpg | 2026-10-21 | Waste Removal | Worn brown leather two-seater sofa with cracked cushions in a living room (POSTED 2026-10-30, Waste Removal, new sofa before Christmas post, Palmers Green/Bowes Park/Arnos Grove) [IN WASTE REMOVAL GALLERY 2026-10-23; still usable once in a post if unposted] |
 | 2026-10-21-real-green-waste-sacks.jpg | 2026-10-21 | Waste Removal | Large pile of black sacks of garden waste on a pavement by a hedge; bin number blurred (POSTED 2026-11-02, Waste Removal, Q&A post: licensed waste carrier / garden waste, Enfield/Bush Hill Park/Edmonton) [IN WASTE REMOVAL GALLERY 2026-10-23; still usable once in a post if unposted] |
