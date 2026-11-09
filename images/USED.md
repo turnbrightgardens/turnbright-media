@@ -5,11 +5,12 @@ Log of every image published with a Google Business Profile post. Never reuse a 
 | File | Date | Listing | Scene |
 |------|------|---------|-------|
 | 2026-10-18-cluttered-loft.jpg | 2026-10-18 | House Clearance | Cluttered UK loft with skylight, boxes, wooden chair, rolled rug, lamp, bin bags, old trunk (POSTED 2026-10-19, pre-Christmas loft clear-out post, Enfield) |
-| 2026-10-19-waste-sofa-mattress-front-path.jpg | 2026-10-19 | Waste Removal | Old grey sofa and stained mattress on paved front path of brick house, autumn leaves (hosted, not yet posted) |
+| 2026-10-19-waste-sofa-mattress-front-path.jpg | 2026-10-19 | Waste Removal | Old grey sofa and stained mattress on paved front path of brick house, autumn leaves (POSTED 2026-11-09, Waste Removal, Q&A post: how soon can you collect / mattresses, Finchley/North Finchley) |
 | 2026-10-21-house-clearance-probate-living-room.jpg | 2026-10-21 | House Clearance | Dated living room with dark wood china cabinet, floral armchair, nest of tables, framed pictures, stacked boxes, net curtains, patterned carpet (POSTED 2026-10-21, probate clearance post, Barnet) |
 | 2026-10-21-waste-green-waste-sacks-driveway.jpg | 2026-10-21 | Waste Removal | Row of white builder's sacks full of autumn leaves along block-paved side driveway by hedge, fence and green wheelie bin (POSTED 2026-10-21, autumn garden waste post, Southgate/Winchmore Hill) |
 
 | 2026-11-04-waste-fridge-washer-driveway.jpg | 2026-11-04 | Waste Removal | Old white fridge-freezer and front-loading washing machine side by side on block-paved driveway by low brick wall and privet hedge, autumn leaves (generated; POSTED 2026-11-04, Waste Removal, old appliances post, Cockfosters/Oakwood) |
+| 2026-11-09-house-clearance-probate-keepsakes-bedroom.jpg | 2026-11-09 | House Clearance | Dated spare bedroom with candlewick bedspread, photo albums, metal document tin and box of letters set aside on bed, empty open mahogany wardrobe, chest of drawers, taped boxes, rolled rug, floral wallpaper, net curtains (generated; POSTED 2026-11-09, House Clearance, Q&A post: what happens to things we want to keep, Southgate/Winchmore Hill) |
 
 ## Reusable real photos
 | van-turnbright-tipper.jpg | 2026-10-19 | Both | TurnBright white Ford tipper van with cage, logo on bonnet, plate blanked (edited real photo; reusable occasionally) |
