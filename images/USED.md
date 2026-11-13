@@ -13,9 +13,11 @@ Log of every image published with a Google Business Profile post. Never reuse a 
 | 2026-11-09-house-clearance-probate-keepsakes-bedroom.jpg | 2026-11-09 | House Clearance | Dated spare bedroom with candlewick bedspread, photo albums, metal document tin and box of letters set aside on bed, empty open mahogany wardrobe, chest of drawers, taped boxes, rolled rug, floral wallpaper, net curtains (generated; POSTED 2026-11-09, House Clearance, Q&A post: what happens to things we want to keep, Southgate/Winchmore Hill) |
 | 2026-11-11-house-clearance-downsize-kitchen.jpg | 2026-11-11 | House Clearance | Dated kitchen with open empty pine wall cupboards, boxes of wrapped crockery and pans on worktop, microwave and kettle, pine table with four chairs and folded tea towels, patterned lino floor (generated; POSTED 2026-11-11, House Clearance, downsizing / moving into care post, Hadley Wood/Arkley) |
 | 2026-11-11-waste-hallway-bedroom-furniture.jpg | 2026-11-11 | Waste Removal | Narrow hallway by grey front door with frosted glass, white flat-pack wardrobe panels, divan bed base on its side, worn wooden chest of drawers, bundle of curtain poles, laminate floor (generated; POSTED 2026-11-11, Waste Removal, old bedroom furniture post, Hendon/Colindale) |
+| 2026-11-13-house-clearance-basement-cellar.jpg | 2026-11-13 | House Clearance | Victorian basement cellar with flaking whitewashed brick walls, exposed joists, small high window, old bicycle, paint tins, standard lamp, plastic crates, old suitcase, wooden stepladder, rolled carpet, cardboard boxes, concrete floor (generated; POSTED 2026-11-13, House Clearance, basement/cellar pre-Christmas clear-out post, Muswell Hill/Fortis Green) |
 
 ## Reusable real photos
 | van-turnbright-tipper.jpg | 2026-10-19 | Both | TurnBright white Ford tipper van with cage, logo on bonnet, plate blanked (edited real photo; reusable occasionally) |
+| van-turnbright-tipper.jpg | 2026-11-13 | Waste Removal | VAN PHOTO reused: USED 2026-11-13, Waste Removal, same-day collections 'on our way' post, High Barnet/Potters Bar |
 
 ## Real customer job photos (unposted, use once each)
 | File | Date | Listing | Scene |
